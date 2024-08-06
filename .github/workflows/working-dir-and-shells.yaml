@@ -24,7 +24,7 @@ jobs:
       run:
         shell: pwsh
     steps:
-      - name: Display Working Directory & List Files
+      - name: Display Working Directory & List Files1
         run: |
           Get-Location
           dir
